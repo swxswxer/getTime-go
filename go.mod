@@ -1,4 +1,4 @@
-module getTime
+module github.com/swxswxer/getTime
 
 go 1.22
 
